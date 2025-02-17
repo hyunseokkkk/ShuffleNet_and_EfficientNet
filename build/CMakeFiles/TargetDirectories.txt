@@ -1,0 +1,3 @@
+C:/Users/loveh/CLionProjects/Alexnet/build/CMakeFiles/Alexnet.dir
+C:/Users/loveh/CLionProjects/Alexnet/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/loveh/CLionProjects/Alexnet/build/CMakeFiles/ZERO_CHECK.dir

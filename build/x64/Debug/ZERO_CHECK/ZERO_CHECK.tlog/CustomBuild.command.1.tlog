@@ -1,0 +1,10 @@
+^C:\USERS\LOVEH\CLIONPROJECTS\ALEXNET\BUILD\CMAKEFILES\F9474A90ED2680DE33DDD8825FB5180F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/loveh/CLionProjects/Alexnet -BC:/Users/loveh/CLionProjects/Alexnet/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/loveh/CLionProjects/Alexnet/build/Alexnet.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

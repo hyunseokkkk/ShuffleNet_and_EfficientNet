@@ -1,0 +1,15 @@
+# 무시할 파일 및 디렉토리 목록
+
+# IDE 설정 파일 및 폴더
+.idea/
+workspace.xml
+shelf/
+
+# 개별 파일
+cmake-build-debug/cached_images.bin
+cmake-build-debug/cached_labels.bin
+
+# 기타 파일
+/dataSources/
+dataSources.local.xml
+/httpRequests/
